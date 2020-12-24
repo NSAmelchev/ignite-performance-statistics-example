@@ -1,5 +1,5 @@
 # Ignite performance statistics example
-
+This example demonstrates how to collect performance statistics and build the report.
 1. Run several nodes. Use the `ExampleNodeStartup` to run empty servers.
 2. Run the example by the `PerformanceStatisticsExample`.
 It starts statistics collection and simulates cluster workload. The default duration is 60 seconds.
