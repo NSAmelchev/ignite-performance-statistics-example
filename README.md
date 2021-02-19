@@ -11,6 +11,6 @@ It starts statistics collection and simulates cluster workload. The default dura
 
 The report will be created in the new directory under the performance statistics files path:
 
-    perf_stat/report_yyyy-MM-dd_HH-mm-ss/
+    path_to_perf_stat_dir/report_yyyy-MM-dd_HH-mm-ss/
 
 Open `report_yyyy-MM-dd_HH-mm-ss/index.html` in the browser to see the report.
